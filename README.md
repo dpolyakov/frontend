@@ -9,3 +9,5 @@ Bookmarks cool stuff
 [accounting.js](http://josscrowcroft.github.io/accounting.js) — форматирование для денег (в принципе можно юзать для чего угодно, настраивается гибко)
 
 [xdate.js](http://arshaw.com/xdate/) — всевозможные операции с датой
+
+[spin.js](https://github.com/fgnass/spin.js) — спинер без картинок
