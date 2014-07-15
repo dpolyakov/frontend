@@ -13,3 +13,5 @@ Bookmarks cool stuff
 [spin.js](https://github.com/fgnass/spin.js) — спинер без картинок
 
 [widearea](https://github.com/usablica/widearea) [[demo](http://usablica.github.io/widearea/)] — textarea расхлопывается на весь экран
+
+http://filltext.com/
