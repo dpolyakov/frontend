@@ -1,9 +1,8 @@
-frontend
-========
+#frontend
 
 Bookmarks cool stuff
 
-
+##Misc
 [Ladda](https://github.com/hakimel/Ladda) [[demo](http://lab.hakim.se/ladda/)] — крутая анимация кнопки сабмита, например
 
 [accounting.js](http://josscrowcroft.github.io/accounting.js) — форматирование для денег (в принципе можно юзать для чего угодно, настраивается гибко)
@@ -14,4 +13,9 @@ Bookmarks cool stuff
 
 [widearea](https://github.com/usablica/widearea) [[demo](http://usablica.github.io/widearea/)] — textarea расхлопывается на весь экран
 
-http://filltext.com/
+##Media
+[plyr](https://github.com/selz/plyr) — крутой html5 audio/video-плеер
+
+##API
+[FillText](http://filltext.com/) — генератор фейковых данных
+[PlaceKitten](http://placekitten.com/) — картинки-заглушки с котиками
