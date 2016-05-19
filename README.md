@@ -20,3 +20,6 @@ Bookmarks cool stuff
 [FillText](http://filltext.com/) — генератор фейковых данных
 
 [PlaceKitten](http://placekitten.com/) — картинки-заглушки с котиками
+
+##Resources
+[flaticon.com](http://www.flaticon.com/) — куча иконок в svg, можно сразу качать `base64`
