@@ -21,5 +21,9 @@ Bookmarks cool stuff
 
 [PlaceKitten](http://placekitten.com/) — картинки-заглушки с котиками
 
+[SWAPI](https://swapi.co/documentation) — The Star Wars API. Апишечка по мативам Звездных войн.
+
+[Pokéapi](https://pokeapi.co) — апишечка про покемонов
+
 ##Resources
 [flaticon.com](http://www.flaticon.com/) — куча иконок в svg, можно сразу качать `base64`
