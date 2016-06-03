@@ -3,6 +3,8 @@
 Bookmarks cool stuff
 
 ##Misc
+[vanillalist.com](http://www.vanillalist.com/) — сборник разных мелких библиотечек, которые не завязаны на фреймворки.
+
 [Ladda](https://github.com/hakimel/Ladda) [[demo](http://lab.hakim.se/ladda/)] — крутая анимация кнопки сабмита, например
 
 [accounting.js](http://josscrowcroft.github.io/accounting.js) — форматирование для денег (в принципе можно юзать для чего угодно, настраивается гибко)
