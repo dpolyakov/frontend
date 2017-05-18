@@ -1,8 +1,9 @@
-#frontend
-
+frontend
+==
 Bookmarks cool stuff
 
-##Misc
+Misc
+===
 [vanillalist.com](http://www.vanillalist.com/) — сборник разных мелких библиотечек, которые не завязаны на фреймворки.
 
 [Ladda](https://github.com/hakimel/Ladda) [[demo](http://lab.hakim.se/ladda/)] — крутая анимация кнопки сабмита, например
@@ -15,10 +16,12 @@ Bookmarks cool stuff
 
 [widearea](https://github.com/usablica/widearea) [[demo](http://usablica.github.io/widearea/)] — textarea расхлопывается на весь экран
 
-##Media
+Media
+===
 [plyr](https://github.com/selz/plyr) — крутой html5 audio/video-плеер
 
-##API
+API
+===
 [FillText](http://filltext.com/) — генератор фейковых данных
 
 [PlaceKitten](http://placekitten.com/) — картинки-заглушки с котиками
@@ -27,5 +30,8 @@ Bookmarks cool stuff
 
 [Pokéapi](https://pokeapi.co) — апишечка про покемонов
 
-##Resources
+[griddy.io](http://griddy.io) — генератор CSS-Grids
+
+Resources
+===
 [flaticon.com](http://www.flaticon.com/) — куча иконок в svg, можно сразу качать `base64`
